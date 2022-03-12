@@ -7,7 +7,7 @@ export default function Cover() {
     <div className='cover-container'>
         <video className='video' src={video1} autoPlay loop muted/>
         <h1> Luciano Castro</h1>
-        <p> Developer | Entrepeneur | Social Media Manager</p>
+        <p> Developer | Entrepreneur | Social Media Manager</p>
     </div>
   )
 }
