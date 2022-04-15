@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/porftolio-luciano-castro/static/css/main.85e22189.css",
-    "main.js": "/porftolio-luciano-castro/static/js/main.7dd54faf.js",
+    "main.js": "/porftolio-luciano-castro/static/js/main.44f766e9.js",
     "static/media/coverVideo.mp4": "/porftolio-luciano-castro/static/media/coverVideo.c8ee34ab50343a71f804.mp4",
+    "static/media/phprofile.jpeg": "/porftolio-luciano-castro/static/media/phprofile.c4c014446455507c5570.jpeg",
     "index.html": "/porftolio-luciano-castro/index.html",
     "main.85e22189.css.map": "/porftolio-luciano-castro/static/css/main.85e22189.css.map",
-    "main.7dd54faf.js.map": "/porftolio-luciano-castro/static/js/main.7dd54faf.js.map"
+    "main.44f766e9.js.map": "/porftolio-luciano-castro/static/js/main.44f766e9.js.map"
   },
   "entrypoints": [
     "static/css/main.85e22189.css",
-    "static/js/main.7dd54faf.js"
+    "static/js/main.44f766e9.js"
   ]
 }
