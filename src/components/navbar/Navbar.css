@@ -1,11 +1,13 @@
 .navbar{
     position: fixed; 
+    display: flex;
+    justify-content: space-between;
     top:0;
     background-color: transparent;
     width: 100%;
     height: 80px;
     padding-left: 50px;
-    font-size: 20px;
+    font-size: 1em;
     z-index: 1;
 
 }
@@ -16,9 +18,74 @@
 }
 
 .navbar-logo{
+  font-size: 1.2em;
     height: 80px;
     line-height: 80px;
     color:white;
     cursor: pointer;
+    
 
 }
+
+.language{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+   gap: .7em;
+   margin-right: 1em;
+}
+.slider-container{
+    width: 60%;
+}
+.switch {
+    display: inline-block;
+    height: 1.2em;
+    position: relative;
+    width: 2.5em;
+    
+  }
+  
+  .switch input {
+    display:none;
+  }
+  
+  .slider {
+    background-color: #ccc;
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    background-color: #fff;
+    bottom: 0;
+    content: "";
+    height: 1.2em;
+    left: 4px;
+    position: absolute;
+    transition: .4s;
+    width: 1.2em;
+  }
+  
+  input:checked + .slider {
+    background-color: black;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  

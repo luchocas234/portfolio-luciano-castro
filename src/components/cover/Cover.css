@@ -11,6 +11,7 @@
     align-items: center;
     
     
+    
 
 }
 .cover-container > h1{
@@ -31,6 +32,7 @@
     height: 100vh;
     z-index: -1;
     position: absolute;
+    background-image: none;
     
 }
 

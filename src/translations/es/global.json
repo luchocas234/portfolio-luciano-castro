@@ -1,0 +1,21 @@
+{
+    "cover":{
+        "desc": "Desarrollador Web | Social Media Manager | Piloto Privado"
+    },
+    "about":{
+        "title":"Déjame decirte algo sobre mí",
+        "desc":"Me apasiona la tecnología y las empresas.Siempre aprendiendo tendencias y actualizaciones de proyectos, me encantan la innovación y las soluciones creativas.Tengo la experiencia de +5 años trabajando para empresarios y tiendas locales que utilizan marketing digital para obtener sus objetivos.Me gustaría desarrollar redes con la tecnología más nueva para sus proyectos.Podemos crear cosas únicas, ¡hablemos!"
+    },
+    "projects":{
+        "title":"Mis Proyectos"
+    },
+    "info":{
+        "text":"Trabajemos juntos y creemos algo único"
+    },
+    "footer":{
+        "city":"En Ciudad de Buenos Aires",
+        "contact":"Contactame",
+        "text":"Y que tu proyecto empiece a volar!",
+        "design":"Diseñado por Luciano Castro"
+    }
+}

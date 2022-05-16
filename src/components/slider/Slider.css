@@ -11,7 +11,7 @@
     color: white;
     width: 40%;
     text-align: center;
-    font-size: 30px;
+    font-size: 1.5em;
     padding: 0 100px 0 100px;
   }
   
@@ -21,14 +21,18 @@
     overflow: hidden;
     position: relative;
     cursor: pointer;
+    object-fit: cover;
   }
   
   .slide-container >a > img {
+    
     object-fit: contain;
+    height: 30em;
     transition: all 0.2s ease-in-out;
   }
   
   .slide-container:hover > a > img{
+    
     transform: scale(1.2);
     opacity: 0.7;
   }
