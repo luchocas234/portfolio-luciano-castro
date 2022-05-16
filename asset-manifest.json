@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-luciano-castro/static/css/main.50e8a37f.css",
-    "main.js": "/portfolio-luciano-castro/static/js/main.1b4a2106.js",
+    "main.css": "/portfolio-luciano-castro/static/css/main.7cc0e65e.css",
+    "main.js": "/portfolio-luciano-castro/static/js/main.b1ce3ffd.js",
     "static/media/coverVideo.mp4": "/portfolio-luciano-castro/static/media/coverVideo.c8ee34ab50343a71f804.mp4",
     "static/media/phprofile.jpeg": "/portfolio-luciano-castro/static/media/phprofile.66c3306ee8233f6c4d73.jpeg",
     "index.html": "/portfolio-luciano-castro/index.html",
-    "main.50e8a37f.css.map": "/portfolio-luciano-castro/static/css/main.50e8a37f.css.map",
-    "main.1b4a2106.js.map": "/portfolio-luciano-castro/static/js/main.1b4a2106.js.map"
+    "main.7cc0e65e.css.map": "/portfolio-luciano-castro/static/css/main.7cc0e65e.css.map",
+    "main.b1ce3ffd.js.map": "/portfolio-luciano-castro/static/js/main.b1ce3ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.50e8a37f.css",
-    "static/js/main.1b4a2106.js"
+    "static/css/main.7cc0e65e.css",
+    "static/js/main.b1ce3ffd.js"
   ]
 }
