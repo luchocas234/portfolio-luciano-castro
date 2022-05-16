@@ -1,6 +1,7 @@
 # Luciano Castro Portfolio 
+# https://luchocas234.github.io/portfolio-luciano-castro/
 
-This project is my Portfolio webpage.
+*This project is my Portfolio webpage*
 I used React and BrainHub for carousel.
 
 ## About me
