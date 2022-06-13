@@ -25,6 +25,12 @@ const slidesInfo = [
         alt: "Pilotfy",
         desc:"Social Media Manager - Alpha Pergamino",
         link: "https://www.instagram.com/alpha.pergamino/"
+    },
+    {
+        src:"https://luchocas234.github.io/alpha-pergamino/static/media/luscombe-3.d814bc147d21f88507cd.jpg",
+        alt: "AlphaPergamino",
+        desc:"WEBSITE - Alpha Pergamino",
+        link: "https://github.com/luchocas234/alpha-pergamino"
     }
 ]
 
