@@ -20,12 +20,12 @@
     border-radius: 40px;
     overflow: hidden;
     position: relative;
-    cursor: pointer;
+    cursor: grab;
     object-fit: cover;
   }
   
   .slide-container >a > img {
-    
+    cursor: grab;
     object-fit: contain;
     height: 30em;
     transition: all 0.2s ease-in-out;
@@ -46,13 +46,27 @@
     padding-left: 30px;
     border-top-left-radius: 20px;
     opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
   }
   
   .slide-desc > span {
     color: white;
     display: block;
-    font-size: 22px;
+    font-size: 15px;
     padding: 20px 0 20px 10px;
+  }
+
+  .slide-desc__btn{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    margin:  5px 15px;
+    cursor: pointer;
+    border-radius: 20px;
+    
   }
   
   .BrainhubCarousel__arrows {
@@ -86,5 +100,10 @@
   
     .slide-container {
       width: 100%;
+    }
+    .slide-desc{
+      width: 100%;
+      height: auto;
+      font-size: 10px;
     }
   }
